@@ -1,2 +1,2 @@
 # MICROWAVE OVEN 
- BLOCK DIAGRAM
+* Block Diagram
