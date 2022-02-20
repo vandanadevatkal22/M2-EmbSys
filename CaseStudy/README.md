@@ -19,3 +19,13 @@ BLOCK DIAGRAM
     * Helps to set the start time and end time.
 * Turn table controls
     * It controls the movement of turn table
+
+# High level and low level requirements
+
+HIGH LEVEL REQUIREMENTS
+* It should cook all type of food
+    * Provided by Convection, grill, etc buttons
+* Low energy consumption 
+    * Electricity supply
+* Automatically off the oven when food id cooke 
+    * Provided by timer options to set the start and end time. 
