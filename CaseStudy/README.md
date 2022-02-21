@@ -1,4 +1,8 @@
 # MICROWAVE OVEN
+
+# Description
+When cook, we have to heat something to eat with fire. But today, we can cook easily by using a microwave oven. Instead of heating food items, we just push the button.
+    Microwave ovens work on the principle of conversion of electromagnetic energy into thermal energy. The waves are reflected within the interior and get absorbed by food, the waves will cause the vibration of water molecules present in food which results in the generation of heat that is responsible for cooking the food
 BLOCK DIAGRAM 
 ![Block Diagram](https://user-images.githubusercontent.com/66207959/154832540-4f35ff89-d0f1-460d-a50b-87dababa2636.png)
 
