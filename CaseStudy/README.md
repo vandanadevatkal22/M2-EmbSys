@@ -34,3 +34,9 @@ HIGH LEVEL REQUIREMENTS
     * Electricity supply
 * Automatically off the oven when food id cooke 
     * Provided by timer options to set the start and end time. 
+
+# SMART WATCH
+# Description
+Smart watches are digital watches that do more – a lot more – that our old analog time tracking device. It Measures the the rate, number of counts, Temperature, Humidity and predicts the wheather, and blood pressure using appropriate sensors. It runs on the battery. 
+
+# Block Diagram
