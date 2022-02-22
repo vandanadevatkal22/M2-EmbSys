@@ -40,3 +40,5 @@ HIGH LEVEL REQUIREMENTS
 Smart watches are digital watches that do more – a lot more – that our old analog time tracking device. It Measures the the rate, number of counts, Temperature, Humidity and predicts the wheather, and blood pressure using appropriate sensors. It runs on the battery. 
 
 # Block Diagram
+
+![Smart watch](https://user-images.githubusercontent.com/66207959/155176293-53acdb99-e25d-4d69-bacd-69b0a4953012.png)
