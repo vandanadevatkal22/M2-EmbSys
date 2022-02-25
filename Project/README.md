@@ -44,4 +44,4 @@ The main objective of the project is to design a smart dustbin which will help i
 
 ## Applications
 * House, Office, restaurants
-* Streets, etc
+* Streets, etc 
