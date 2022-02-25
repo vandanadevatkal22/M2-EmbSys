@@ -41,3 +41,7 @@ The main objective of the project is to design a smart dustbin which will help i
 
 ## FLOW CHART
 ![Flow Chart](https://user-images.githubusercontent.com/66207959/155759696-8e7f3e6b-8701-40a2-9aff-9abe6b48f3d6.png)
+
+## Applications
+* House, Office, restaurants
+* Streets, etc
