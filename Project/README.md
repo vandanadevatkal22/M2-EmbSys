@@ -11,4 +11,4 @@ The main objective of the project is to design a smart dustbin which will help i
 * ADC & DAC: They are responsible in converting the signals according to the requirements.
 
 ## FLOW CHART
-
+![Flow Chart](https://user-images.githubusercontent.com/66207959/155716350-16ec4cf9-c55f-47cb-afe1-7c0bf0061a26.png)
