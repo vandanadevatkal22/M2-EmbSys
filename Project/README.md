@@ -40,3 +40,4 @@ The main objective of the project is to design a smart dustbin which will help i
 
 
 ## FLOW CHART
+![Flow Chart](https://user-images.githubusercontent.com/66207959/155759326-59b932d6-3c64-4965-8dc5-06c29c602e08.png)
