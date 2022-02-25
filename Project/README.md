@@ -6,6 +6,19 @@ The main objective of the project is to design a smart dustbin which will help i
 |ID  | Requirements|
 |----|-------------|
 |HLR1| It should be contactless|
+|HLR2| It should indicate the garbage leve|
+|HLR3| The garbage should not exposed to environment|
+
+## LOW LEVEL REQUIREMENTS
+|ID|Requirements|
+|--|------------|
+|LLR1.1|It shall sense the objects approaching to it|
+|LLR1.2|It shall have a automatic movable lid|
+|LLR2.1|It shall have a proximity sensor to detect the garbage level|
+|LLR2.2|It shall have a LED which glows once the maximum limit has reached|
+|LLR2.3|It shall beep one time after reaching the limit|
+|LLR3.1|It shall have a sliding lid to open and close|
+|LLR3.2|It is closed when no object is detected|  
 ## BLOCK DIAGRAM
 ![Smart Dustbin](https://user-images.githubusercontent.com/66207959/155713431-bf685d25-f018-40e1-b3cf-1b62a459fba4.png)
 
