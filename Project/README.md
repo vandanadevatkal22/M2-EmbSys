@@ -9,3 +9,6 @@ The main objective of the project is to design a smart dustbin which will help i
 * LED: It indicates the level of garbage in the bin
 * Power supply: It supplies the appropriate volatge to the controller 
 * ADC & DAC: They are responsible in converting the signals according to the requirements.
+
+## FLOW CHART
+
