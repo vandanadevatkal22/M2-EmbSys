@@ -21,6 +21,7 @@ The main objective of the project is to design a smart dustbin which will help i
 |LLR3.2|It is closed when no object is detected|  
 
 ## BLACK BOX
+![black box](https://user-images.githubusercontent.com/66207959/155751660-a6866e84-0b95-4a86-9620-61af23251d8f.PNG)
 
 ## BLOCK DIAGRAM
 ![Smart Dustbin](https://user-images.githubusercontent.com/66207959/155713431-bf685d25-f018-40e1-b3cf-1b62a459fba4.png)
