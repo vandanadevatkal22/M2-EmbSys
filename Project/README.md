@@ -37,7 +37,8 @@ The main objective of the project is to design a smart dustbin which will help i
 * Moisture sensor: detects the wet waste
 * Buzzer: It Beeps when wet waste is detected and alert the person to not put inside the bin. 
 
-
+## SWOT Analysis of Smart Dustbin
+![SWOT](https://user-images.githubusercontent.com/66207959/155830903-f6923aa8-e2b4-4c05-ab9c-2143efa07a93.PNG)
 
 ## FLOW CHART
 ![Flow Chart](https://user-images.githubusercontent.com/66207959/155759696-8e7f3e6b-8701-40a2-9aff-9abe6b48f3d6.png)
