@@ -73,6 +73,11 @@ This Smart Dustbin sense the person or object using Ultrasonic Sensor which send
 ## BLACK BOX
 ![black box](https://user-images.githubusercontent.com/66207959/155751660-a6866e84-0b95-4a86-9620-61af23251d8f.PNG)
 
+## BEHAVIORAL DIAGRAM
+### Use Case Diagram
+![Use Case Diagram](https://user-images.githubusercontent.com/66207959/157262602-1ef983ef-d3ff-44b9-8024-3e58ecacc84f.png)
+
+## STRUCTURAL DIAGRAM
 ## BLOCK DIAGRAM
 ![Smart Dustbin](https://user-images.githubusercontent.com/66207959/155756754-2cb0eb5b-370b-48fe-988b-02b93e91fb0b.png)
 
