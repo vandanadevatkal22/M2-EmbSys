@@ -11,7 +11,7 @@ The main objective of the project is to design a smart dustbin which will help i
 * Moisture sensor: detects the wet waste
 * Buzzer: It Beeps when wet waste is detected and alert the person to not put inside the bin. 
 
-## Components
+## COMPONENTS
 ### Ultrasonic sensor
 ![image](https://user-images.githubusercontent.com/66207959/157237935-f961f376-1bf7-4426-a320-83a1694c955e.png)
 An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's proximity. 
@@ -36,6 +36,9 @@ Humidity sensors are electronic devices that measure and report the moisture and
 ![image](https://user-images.githubusercontent.com/66207959/157238825-c4d216ae-4d3e-46de-9ffd-2c1fdd6304d6.png)
 A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short).
 #### It Beeps when wet waste is detected and alert the person to not put inside the bin. 
+
+## WORKING
+This Smart Dustbin sense the person or object using Ultrasonic Sensor which send the message to Servo Motor using Arduino Uno. When the person Comes closer to Smart Dustbin then the Dustbin Cap will automatically open for your waste and after some time it will automatically Close. It also contains the Moisture sensor, which senses the moisture in waste and it alerts the user by beeping, indicating that the user must not throw the wet waste in dustbin. The ultrasonic sensor is placed beneath the lid, which keeps track of garbage level. Once the waste reaches the limit, the LED glows, indicating the dustbin is full.
 
 ## 4W'S 1-H
 ### What
