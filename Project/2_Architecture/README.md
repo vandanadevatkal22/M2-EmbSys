@@ -7,7 +7,7 @@ Black box testing refers to any type of software test that examines an applicati
 ![Use Case Diagram](https://user-images.githubusercontent.com/66207959/157262602-1ef983ef-d3ff-44b9-8024-3e58ecacc84f.png)
 
 ## STRUCTURAL DIAGRAM
-# BLOCK DIAGRAM
+### BLOCK DIAGRAM
 ![Smart Dustbin](https://user-images.githubusercontent.com/66207959/155756754-2cb0eb5b-370b-48fe-988b-02b93e91fb0b.png)
 
 * Ultrasonic sensor: It the measures the distance to an object approching the dustbin
