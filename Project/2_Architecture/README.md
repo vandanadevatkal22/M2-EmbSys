@@ -1,5 +1,6 @@
 ## BLACK BOX
 Black box testing refers to any type of software test that examines an application without knowledge of the internal design, structure, or implementation of the software project.
+
 ![black box](https://user-images.githubusercontent.com/66207959/155751660-a6866e84-0b95-4a86-9620-61af23251d8f.PNG)
 
 ## BLOCK DIAGRAM
@@ -15,10 +16,12 @@ Black box testing refers to any type of software test that examines an applicati
 
 ## SWOT Analysis of Smart Dustbin
 SWOT (strengths, weaknesses, opportunities, and threats) analysis is a method for identifying and analyzing internal strengths and weaknesses and external opportunities and threats that shape current and future operations and help develop strategic goals.
+
 ![SWOT](https://user-images.githubusercontent.com/66207959/155830903-f6923aa8-e2b4-4c05-ab9c-2143efa07a93.PNG)
 
 ## FLOW CHART
 A Flow Chart is a diagram that shows step-by-step progression through a procedure or system especially using connecting lines and a set of conventional symbols.
+
 ![Flow Chart](https://user-images.githubusercontent.com/66207959/155759696-8e7f3e6b-8701-40a2-9aff-9abe6b48f3d6.png)
 
 ## Applications
