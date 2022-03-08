@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a45b12a9538644b49c10dd5dcca16711)](https://www.codacy.com/gh/vandanadevatkal22/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vandanadevatkal22/M2-EmbSys&amp;utm_campaign=Badge_Grade)
+
 # SMART DUSTBIN
 ## Abstract
 The main objective of the project is to design a smart dustbin which will help in keeping our environment clean and also eco-friendly. This smart dustbin is built on the microcontroller-based system having ultrasonic sensors on the dustbin. After all hardware and software connection, now Smart Dustbin program will be run. Dustbin lid will when someone comes near at some range than wait for user to put garbage and close it. Seperating fdry and wet waste makes the task of recycling dry non-biodegradable waste easier. It also simplifies the conversion of wet waste like leftover food, used tea leaves, etc. to compost. Hence the bin alerts the user to put only the dry waste by beeping if wet waste is detected. 
