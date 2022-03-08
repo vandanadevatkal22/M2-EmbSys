@@ -2,6 +2,12 @@
 ## Abstract
 The main objective of the project is to design a smart dustbin which will help in keeping our environment clean and also eco-friendly. This smart dustbin is built on the microcontroller-based system having ultrasonic sensors on the dustbin. After all hardware and software connection, now Smart Dustbin program will be run. Dustbin lid will when someone comes near at some range than wait for user to put garbage and close it. Seperating fdry and wet waste makes the task of recycling dry non-biodegradable waste easier. It also simplifies the conversion of wet waste like leftover food, used tea leaves, etc. to compost. Hence the bin alerts the user to put only the dry waste by beeping if wet waste is detected. 
 
+##  OBJECTIVE
+The main objective of this project is to
+* Design and build a prototype for an automatic open dustbin that can automatically open the lid when it detects the people who want to throw out their trash. It also can detect the level of the trash that inside the dustbin.
+* To seperate the dry and wet waste for easy recycling processes
+* To get familiar with the Arduino and the respective sensors how to use them for a cause.
+
 ## DESCRIPTION
 * Ultrasonic sensor: It the measures the distance to an object approching the dustbin
 * Servo Motor: It is responsible for opening and closing the lid of the dustbin
