@@ -40,6 +40,22 @@ A buzzer or beeper is an audio signaling device, which may be mechanical, electr
 ## WORKING
 This Smart Dustbin sense the person or object using Ultrasonic Sensor which send the message to Servo Motor using Arduino Uno. When the person Comes closer to Smart Dustbin then the Dustbin Cap will automatically open for your waste and after some time it will automatically Close. It also contains the Moisture sensor, which senses the moisture in waste and it alerts the user by beeping, indicating that the user must not throw the wet waste in dustbin. The ultrasonic sensor is placed beneath the lid, which keeps track of garbage level. Once the waste reaches the limit, the LED glows, indicating the dustbin is full.
 
+## CONTROLLER
+### Arduino UNO
+
+Arduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on our computer, used to write and upload computer code to the physical board.
+
+The Arduino platform has become quite popular with people just starting out with electronics, and for good reason. Unlike most previous programmable circuit boards, the Arduino does not need a separate piece of hardware (called a programmer) in order to load new code onto the board — we can simply use a USB cable.
+
+## SOFTWARES
+
+### Arduino IDE
+The Arduino Integrated Development Environment - or Arduino Software (IDE) - contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them.
+
+### SimulIDE
+SimulIDE is a simple real time electronic circuit simulator, intended for students to learn and experiment with simple electronic circuits and microcontrollers, supporting PIC, AVR and Arduino.SimulIDE also features a code Editor and Debugger for GcBasic, Arduino, PIC asm and AVR asm. 
+
+
 ## 4W'S 1-H
 ### What
 * Description of the problem
