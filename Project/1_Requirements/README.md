@@ -73,7 +73,7 @@ This Smart Dustbin sense the person or object using Ultrasonic Sensor which send
 |ID  | Requirements|
 |----|-------------|
 |HLR1| It should be contactless|
-|HLR2| It should indicate the garbage leve|
+|HLR2| It should indicate the garbage level|
 |HLR3| The garbage should not exposed to environment|
 |HLR4| Only dry waste should be disposed|
 
