@@ -11,6 +11,32 @@ The main objective of the project is to design a smart dustbin which will help i
 * Moisture sensor: detects the wet waste
 * Buzzer: It Beeps when wet waste is detected and alert the person to not put inside the bin. 
 
+## Components
+### Ultrasonic sensor
+![image](https://user-images.githubusercontent.com/66207959/157237935-f961f376-1bf7-4426-a320-83a1694c955e.png)
+An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's proximity. 
+#### It the measures the distance to an object approching the dustbin
+
+### Servo motor
+![image](https://user-images.githubusercontent.com/66207959/157238223-833f310c-eb90-46c8-8749-732aa28d6fce.png)
+A servomotor (or servo motor) is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration. It consists of a suitable motor coupled to a sensor for position feedback.
+####  It is responsible for opening and closing the lid of the dustbin
+
+### LED
+![image](https://user-images.githubusercontent.com/66207959/157238350-12f52ca3-28b9-4cce-ba33-142d03dadfc8.png)
+A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it. 
+#### It indicates the level of garbage in the bin
+
+### Moisture Sensor
+![image](https://user-images.githubusercontent.com/66207959/157238697-ca967d79-7e8f-46dd-9322-6a93810416d2.png)
+Humidity sensors are electronic devices that measure and report the moisture and air temperature of the surrounding environment where they are deployed 
+####  Detects the wet waste
+
+### Buzzer
+![image](https://user-images.githubusercontent.com/66207959/157238825-c4d216ae-4d3e-46de-9ffd-2c1fdd6304d6.png)
+A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short).
+#### It Beeps when wet waste is detected and alert the person to not put inside the bin. 
+
 ## 4W'S 1-H
 ### What
 * Description of the problem
